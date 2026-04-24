@@ -21,14 +21,28 @@ MCA student at VIT Vellore and aspiring Full-Stack Developer passionate about bu
 
 <p align="center">
 
-<a href="https://github.com/BhoomikaSoni03/hr-workflow">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BhoomikaSoni03&repo=hr-workflow&theme=tokyonight"/>
+<a href="https://github.com/BhoomikaSoni03/Gemarix">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=BhoomikaSoni03&repo=Gemarix&theme=tokyonight" />
 </a>
 
 &nbsp;
 
-<a href="https://github.com/BhoomikaSoni03/Gemarix">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BhoomikaSoni03&repo=Gemarix&theme=tokyonight"/>
+<a href="https://github.com/BhoomikaSoni03/Netscope">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=BhoomikaSoni03&repo=Netscope&theme=tokyonight" />
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/BhoomikaSoni03/HabitForge">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=BhoomikaSoni03&repo=HabitForge&theme=tokyonight" />
+</a>
+
+&nbsp;
+
+<a href="https://github.com/BhoomikaSoni03/hr-workflow">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=BhoomikaSoni03&repo=hr-workflow&theme=tokyonight" />
 </a>
 
 </p>
